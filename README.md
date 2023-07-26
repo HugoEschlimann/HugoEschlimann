@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hugo Eschlimann</h1>
 <h3 align="center">A passionate backend developer from French</h3>
 
-- 🔭 I’m currently working on **RayTracer in C++**
+- 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Haskell and Rust**
 
 - 📫 How to reach me **hugo.eschlimann@epitech.eu**
 
