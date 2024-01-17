@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Haskell and Rust**
+- 🌱 I’m currently learning **Svelte and Rust**
 
 - 📫 How to reach me **hugo.eschlimann@epitech.eu**
 
