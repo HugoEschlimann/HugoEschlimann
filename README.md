@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hugo Eschlimann</h1>
 <h3 align="center">A passionate backend developer from French</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **a secret project**
 
-- 🌱 I’m currently learning **Svelte and Rust**
+- 🌱 I’m currently learning **Go and Rust**
 
-- 📫 How to reach me **hugo.eschlimann@epitech.eu**
+- 📫 How to reach me **hugo.eschlimann@laposte.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
